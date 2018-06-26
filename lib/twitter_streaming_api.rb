@@ -3,7 +3,6 @@ require_relative "twitter_streaming_api/version"
 module TwitterStreamingApi
 #!/usr/bin/env ruby
   require 'twitter'
-  require 'optparse'
   require 'yaml'
 
   class FetchTweets
