@@ -1,0 +1,13 @@
+# excluding the following words from the word counts as these are useless words.
+# tried to extract as much as useless words and put it over here
+ignore_words		: "the,a,an,you,i,and,or,to,in,of,is,from,my,me,that,rt,be,on,it,your,for"
+
+#Consumer & access key & token are required to connect to Twitter streaming API.
+# You'll need to sign up for an account & generate these to access it.
+consumer_key        : "dQNSXrA7WOGodPDkx94GjDWbS"
+consumer_secret     : "J0n998XSWRIxt0xmB96s88K7R3QPklDNBR7SGszEd3ooX7gLFo"
+access_token        : "76663738-lgZAneE6qeg5BYi1QHuSPyVX11HHGL4lFNazAsOeX"
+access_token_secret : "TPWBTHtuAlR5USLk0u0aBK6Ntt5X8XIZTjaQLcSGPfG8C"
+
+default_max_time: 60
+
